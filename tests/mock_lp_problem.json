@@ -1,0 +1,15 @@
+{
+    "type": "lp",
+    "objective": {
+        "sense": "maximize",
+        "coefficients": [3, 2]
+    },
+    "constraints": {
+        "A_ub": [[1, 1], [2, 1]],
+        "b_ub": [4, 5],
+        "A_eq": null,
+        "b_eq": null
+    },
+    "bounds": [[0, null], [0, null]],
+    "options": {}
+}

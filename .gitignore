@@ -1,0 +1,38 @@
+# Claude Code 本地配置（含个人设置，勿提交）
+.claude/
+
+# Python 编译产物
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# 虚拟环境
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 操作系统
+.DS_Store
+Thumbs.db
+
+# 测试输出（运行时生成）
+tests/*_result*.csv
+
+# 内部任务文件（非 Skill 组成部分）
+task.md
+
+# Jupyter
+.ipynb_checkpoints/
+
+# 临时文件
+*.log
+*.tmp

@@ -1,0 +1,23 @@
+# 数学建模专家 Skill - Python 工具链依赖
+# Mathematical Modeling Expert Skill - Python Toolchain Dependencies
+
+# 核心数值计算
+numpy>=1.24.0
+
+# 科学计算与优化求解
+scipy>=1.10.0
+
+# 线性/整数规划建模与求解
+PuLP>=2.7.0
+
+# 数据处理与分析
+pandas>=2.0.0
+
+# 可选：更高级的优化求解器接口
+# cvxpy>=1.3.0        # 凸优化
+# pyomo>=6.5.0        # 通用优化建模
+# ortools>=9.6.0      # Google OR-Tools
+
+# 可选：可视化
+# matplotlib>=3.7.0   # 通用绑图
+# seaborn>=0.12.0     # 统计数据可视化

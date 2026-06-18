@@ -1,0 +1,16 @@
+{
+    "type": "ip",
+    "objective": {
+        "sense": "minimize",
+        "coefficients": [5, 7]
+    },
+    "constraints": {
+        "A_ub": [[1, 2], [3, 1], [1, 0]],
+        "b_ub": [10, 9, 4],
+        "A_eq": null,
+        "b_eq": null
+    },
+    "bounds": [[0, null], [0, null]],
+    "integrality": [1, 1],
+    "options": {}
+}

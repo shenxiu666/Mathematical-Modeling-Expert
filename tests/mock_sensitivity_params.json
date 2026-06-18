@@ -1,0 +1,21 @@
+{
+    "base_params": {
+        "alpha": 0.5,
+        "beta": 1.2,
+        "gamma": 2.0
+    },
+    "perturbations": [-0.2, -0.1, 0.1, 0.2],
+    "output_key": "total_cost",
+    "function_type": "expression",
+    "objective_function": "alpha * x + beta * y - gamma * z",
+    "function_vars": {
+        "alpha": "alpha",
+        "beta": "beta",
+        "gamma": "gamma"
+    },
+    "fixed_inputs": {
+        "x": 100,
+        "y": 50,
+        "z": 30
+    }
+}
