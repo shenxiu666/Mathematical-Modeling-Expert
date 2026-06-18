@@ -1,3 +1,4 @@
+# 🧮 数学建模专家 Skill (Mathematical Modeling Expert)
 
 > 一个专为数学建模竞赛（CUMCM / MCM / ICM）和实际业务优化问题设计的 Claude Code Skill。
 >
@@ -33,9 +34,7 @@
 ### 1. 获取项目
 
 ```bash
-# 克隆仓库（将 <your-repo-url> 替换为实际 GitHub 地址）
-git clone <your-repo-url>
-cd 2025A
+git clone https://github.com/shenxiu666/Mathematical-Modeling-Expert.git
 ```
 
 或直接从 GitHub 下载 ZIP 并解压。
