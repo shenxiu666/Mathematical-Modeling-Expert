@@ -1,4 +1,3 @@
-# 🧮 数学建模专家 Skill (Mathematical Modeling Expert)
 
 > 一个专为数学建模竞赛（CUMCM / MCM / ICM）和实际业务优化问题设计的 Claude Code Skill。
 >
